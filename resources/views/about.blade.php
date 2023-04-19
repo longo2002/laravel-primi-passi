@@ -28,18 +28,10 @@
     </head>
     <body>
         <h1>
-            Hello world!
+            About
         </h1>
-        <ul>
-            <li>
-                <a href="{{ url('contacts') }}">Contacts</a>
-            </li>
-            <li>
-                <a href="{{ url('about') }}">About</a>
-            </li>
-            <li>
-                <a href="{{ url('services') }}">Services</a>
-            </li>
-        </ul>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate veritatis doloremque inventore commodi, maiores mollitia quibusdam quos consectetur eaque sed vero sit nesciunt quam dignissimos in eum sequi accusantium deleniti temporibus explicabo? Eos molestias fugit quis delectus alias voluptatum consequatur, dignissimos error, harum natus, facilis nobis deserunt adipisci dolore quae!
+        </p>
     </body>
 </html>

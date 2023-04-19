@@ -28,17 +28,38 @@
     </head>
     <body>
         <h1>
-            Hello world!
+            Contacts
         </h1>
         <ul>
             <li>
-                <a href="{{ url('contacts') }}">Contacts</a>
+                <h3>Info</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo molestias eligendi expedita, ab eius sit.
+                </p>
             </li>
             <li>
-                <a href="{{ url('about') }}">About</a>
+                <h3>Info</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo molestias eligendi expedita, ab eius sit.
+                </p>
             </li>
             <li>
-                <a href="{{ url('services') }}">Services</a>
+                <h3>Info</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo molestias eligendi expedita, ab eius sit.
+                </p>
+            </li>
+            <li>
+                <h3>Info</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo molestias eligendi expedita, ab eius sit.
+                </p>
+            </li>
+            <li>
+                <h3>Info</h3>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo molestias eligendi expedita, ab eius sit.
+                </p>
             </li>
         </ul>
     </body>
